@@ -1,0 +1,22 @@
+{
+  "name": "devops-ci-cd-pipelines",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run" : "node index.js",
+    "test": "node test.js"
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mismail9961/DevOps-CI-CD-Pipelines.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Mismail9961/DevOps-CI-CD-Pipelines/issues"
+  },
+  "homepage": "https://github.com/Mismail9961/DevOps-CI-CD-Pipelines#readme"
+}
